@@ -1,0 +1,2 @@
+# termux
+Activy script
